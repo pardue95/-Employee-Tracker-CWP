@@ -5,10 +5,10 @@ VALUES ('Management'),
 ('Human Resources'),
 ('Quality Control');
 
-INSERT INTO roles(title)
-VALUES('Regional Manager'),
-('Sales Rep'),
-('HR Rep');
+INSERT INTO roles(title, salary, department_id)
+VALUES('Regional Manager', 20000, 1),
+('Sales Rep', 15000, 2),
+('HR Rep', 10000, 4);
 
 INSERT INTO employees(first_name, last_name)
 VALUES('Tim', 'Beesly'),
