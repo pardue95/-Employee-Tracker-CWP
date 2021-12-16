@@ -22,7 +22,7 @@ Run the program by ensuring you're in the root project directory. Type  `node ap
 
 ## Example Image of Program Interface
 
-![employeeTracker](https://user-images.githubusercontent.com/89761926/145746775-122f4b64-b9db-44f6-8df2-2ef30f30ae67.png)
+![Employee Tracker](https://user-images.githubusercontent.com/85760640/146415355-242668a0-9755-4d19-850f-af86cee4f9ea.png)
 
 ## Credits
 
